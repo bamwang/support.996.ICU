@@ -157,3 +157,5 @@ Supported by / 支持者:
 * Hao Xu, Azure Developer PMM, Microsoft
 * Shan Zhou, Software Engineer, Microsoft
 * Luxroid(MingWang Hao), Software Engineer, Freelancer
+* Bam Wang (Wang Zhu), Development Manager, Linktivity Pte, Ltd, Veltra Inc
+
